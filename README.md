@@ -1,5 +1,24 @@
 # План автоматизации тестирования сценария перехода к форме записи и заполнения [формы](https://netology.ru/programs/qa-middle)
 ## 1. Перечень автоматизируемых сценариев.
+### Первый сценарий
+  **Тестирование через "Каталог курсов"**
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/bb1d98d3-b8d5-4061-9054-9d4c51aaff39)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/8e3a151e-c8cd-4b9a-a3f5-1bbde2228805)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/9c8dae3f-adb6-4026-9a3e-13033bb46529)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/7bd28c51-fcec-46ce-8b2b-4cfd8faa898b)
+### Второй сценарий
+  **Тестирование через прокрутку страницы до конца**
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/c077b203-65e9-4080-80ca-769bf664aedc)
+### Третий сценарий
+**Тестирование через поиск по "Каталогу курсов"**
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/bb1d98d3-b8d5-4061-9054-9d4c51aaff39)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/88b963dc-f839-4194-ac7a-00315cc0cb7d)  
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/7bd28c51-fcec-46ce-8b2b-4cfd8faa898b)
+### Четвертый сценарий
+**Тестирование через элементы на главной странице**
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/4158fc67-e774-4b80-9191-42ba8f3a67f6)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/9c8dae3f-adb6-4026-9a3e-13033bb46529)
+  ![image](https://github.com/DenIvanof/AT_Z10/assets/153014130/7bd28c51-fcec-46ce-8b2b-4cfd8faa898b)
 ## 2. Перечень используемых инструментов с обоснованием выбора.
 * Браузер(google chrome или любой другой) 
 * Devtools для исследования старницы
